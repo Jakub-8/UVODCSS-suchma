@@ -1,0 +1,35 @@
+body{
+   background-image: url(../_vyr_10013848_sladka-zebra-cerna.jpg);
+   background-size: 78%;
+}
+.title-h1{
+   color: chocolate;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.title-h2{
+   color: rgb(124, 54, 204);
+}
+.title-h3{
+   color: rgb(13, 83, 189);
+}
+.title-h4{
+   list-style: upper-roman;
+   color:rgb(255, 0, 0)
+} 
+.title-h5{
+   list-style: upper-roman;
+   color:rgba(5, 92, 23, 0.527)
+} 
+.title-h6{
+   list-style: upper-roman;
+   color:rgb(255, 0, 200)
+} 
+.title-h7{
+   list-style-type: square
+} 
+.title-h8{
+   list-style-type:circle
+} 
+.title-h9{
+   list-style-type:georgian
+} 
